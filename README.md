@@ -52,7 +52,6 @@ The dataset consists of historical marketing data with the following features:
   - Logistic Regression
   - Decision Tree
   - Random Forest
-  - XGBoost
   - Neural Networks (if applicable)
 - Compare model performance using evaluation metrics (accuracy, precision, recall, F1-score, ROC-AUC).
 - Perform hyperparameter tuning to optimize model performance.
@@ -69,7 +68,7 @@ The dataset consists of historical marketing data with the following features:
 ## 6. Tools & Technologies
 
 - **Programming Language:** Python
-- **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Development Platform:** Jupyter Notebook / Google Colab
 - **Deployment:** Flask / FastAPI / Streamlit for dashboard
 - **Version Control:** GitHub
